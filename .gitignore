@@ -1,0 +1,6 @@
+build-work/
+dist/
+Data/
+*.user
+__pycache__/
+.pytest_cache/
